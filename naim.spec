@@ -1,6 +1,6 @@
 Name:           naim
-Version:        0.11.8.3.1
-Release:        %mkrel 4
+Version:        0.11.8.3.2
+Release:        %mkrel 1
 Epoch:          0
 Summary:        An ncurses-based console AIM, ICQ, IRC, and Lily client
 Group:          Networking/Instant messaging
@@ -19,7 +19,7 @@ Internet Relay Chat (IRC), and The lily CMC.
 %setup -q
 
 %build
-%{configure2_5x}
+%configure2_5x
 %{__make}
 
 %install

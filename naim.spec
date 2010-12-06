@@ -1,6 +1,6 @@
 Name:           naim
 Version:        0.11.8.3.2
-Release:        %mkrel 1
+Release:        %mkrel 2
 Epoch:          0
 Summary:        An ncurses-based console AIM, ICQ, IRC, and Lily client
 Group:          Networking/Instant messaging

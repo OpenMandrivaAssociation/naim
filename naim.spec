@@ -44,3 +44,27 @@ Internet Relay Chat (IRC), and The lily CMC.
 %{_mandir}/man1/nirc.1*
 %{_mandir}/man1/nlily.1*
 
+
+
+%changelog
+* Mon Dec 06 2010 Oden Eriksson <oeriksson@mandriva.com> 0:0.11.8.3.2-2mdv2011.0
++ Revision: 612988
+- the mass rebuild of 2010.1 packages
+
+* Tue Mar 02 2010 Sandro Cazzaniga <kharec@mandriva.org> 0:0.11.8.3.2-1mdv2010.1
++ Revision: 513636
+- update to naim-0.11.8.3.2
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 0:0.11.8.3.1-4mdv2010.0
++ Revision: 430151
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tv@mandriva.org> 0:0.11.8.3.1-3mdv2009.0
++ Revision: 253563
+- rebuild
+
+* Thu Jan 03 2008 David Walluck <walluck@mandriva.org> 0:0.11.8.3.1-1mdv2008.1
++ Revision: 143559
+- import naim
+
+

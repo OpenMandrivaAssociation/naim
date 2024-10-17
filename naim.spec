@@ -5,7 +5,7 @@ Epoch:          0
 Summary:        An ncurses-based console AIM, ICQ, IRC, and Lily client
 Group:          Networking/Instant messaging
 License:        GPLv2
-URL:            http://naim.n.ml.org/
+URL:            https://naim.n.ml.org/
 Source0:        http://naim.googlecode.com/files/naim-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 

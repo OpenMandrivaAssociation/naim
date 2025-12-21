@@ -9,6 +9,11 @@ URL:            https://naim.n.ml.org/
 Source0:        http://naim.googlecode.com/files/naim-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: ncurses-devel gawk
 
 %description
